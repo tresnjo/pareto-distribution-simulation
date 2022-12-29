@@ -1,4 +1,4 @@
-# Economic-distribution-of-population-with-personalities
+# Recreating the Pareto distribution by simulating an economy
 
 We will create a population of a 1000 people, which will be trading with each other over a period of 500 generations
 Each person will be given the same starting sum, a dollar each, and we'll hopefully get an interesting development of the distrubtion of the wealth.
